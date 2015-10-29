@@ -1,5 +1,12 @@
 # Walka-o-przetrwanie
 
-RIT MI
+//fsdafsdf
 
-Nevah
+<!-- gsdfhsfgh -->
+
+/* sdghadfgh
+
+
+gsfdghsf
+
+*/
