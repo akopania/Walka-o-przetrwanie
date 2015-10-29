@@ -1,6 +1,3 @@
 # Walka-o-przetrwanie
-
 <!-- komentaSZ -->
-<!-- smiechlem -->
-
-Co tam co tam
+<!-- PLAN: Kreator planu treningowego z doradca -->
