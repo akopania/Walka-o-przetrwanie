@@ -1,2 +1,0 @@
-# Walka-o-przetrwanie
-Siema
