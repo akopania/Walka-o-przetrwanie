@@ -2,3 +2,5 @@
 
 <!-- komentaSZ -->
 <!-- smiechlem -->
+
+Co tam co tam
