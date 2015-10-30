@@ -2,6 +2,8 @@
 <!-- komentaSZ -->
 <!-- PLAN: Kreator planu treningowego z doradca -->
 
+<!-- Ctoolkit - biblioteka do przetwarzania tekstu cpp -->
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
