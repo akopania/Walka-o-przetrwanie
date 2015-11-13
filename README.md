@@ -30,12 +30,8 @@ public class ChatBot extends JFrame implements KeyListener{
 		//question greetings
 		{"how are you","how r you","how r u","how are u"},
 		{"good","doing well"},
-		//yes
-		{"yes"},
-		{"no","NO","NO!!!!!!!"},
 		//default
-		{"shut up","you're bad","noob","stop talking",
-		"(michael is unavailable, due to LOL)"}
+		{"what?","dfagdfgs"}
 	};
 	
 	public static void main(String[] args){
@@ -53,7 +49,7 @@ public class ChatBot extends JFrame implements KeyListener{
 	
 		p.add(scroll);
 		p.add(input);
-		p.setBackground(new Color(255,200,0));
+		p.setBackground(new Color(0,0,0));
 		add(p);
 		
 		setVisible(true);
@@ -74,7 +70,7 @@ public class ChatBot extends JFrame implements KeyListener{
 			){
 				quote=quote.substring(0,quote.length()-1);
 			}
-			quote.trim();
+			quote=quote.trim();
 			byte response=0;
 			/*
 			0:we're searching through chatBot[][] for matches
